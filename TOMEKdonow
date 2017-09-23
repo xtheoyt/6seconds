@@ -1,0 +1,12 @@
+/*
+TU WKLEJAMY CZYM DOKLADNIE SIE ZAJMUJEMY DOKLADNIE
+
+ZAKRES PRAC, CO BY ULATWILO CI POSTEP (ile prochow, w jakie dane spojrzec itd)
+
+opcjonalny opis do plików dodawanych z pullupu wraz ze ścieżkami:
+  np gdy biblioteka:
+    bibliotekatest.txt - opis biblio wraz z rozpiska wywolawczych
+    bibliotekatest.cpp
+    bibliotekatest.h
+    /tools/bibliotekatest.exe
+ */
